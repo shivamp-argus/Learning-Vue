@@ -7,3 +7,4 @@ conditions
 Assignments
 Assign-1
 Monster-Slayer
+Friends-List
