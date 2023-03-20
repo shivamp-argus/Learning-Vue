@@ -6,3 +6,4 @@ event-binding
 conditions
 Assignments
 Assign-1
+Monster-Slayer
