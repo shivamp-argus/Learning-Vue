@@ -15,3 +15,4 @@ Learning-Resources
 Forms-Handling
 Handling-Http-Request
 Handling-Routes
+Vuex
